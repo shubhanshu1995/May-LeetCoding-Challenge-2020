@@ -8,7 +8,7 @@ May LeetCoding Challenge 2020
 
 ### **Note:** You need to login to LeetCode to see the full problem statement in Explore Card Section.
 
-### Just click on the solution links & you'll be redirected to respective language's solution in my repository.
+### Just click on the solution links & you'll be redirected to respective code in my repository.
 ---
 | Day | Problem Link | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
