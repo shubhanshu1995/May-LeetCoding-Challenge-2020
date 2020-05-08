@@ -1,7 +1,7 @@
 May LeetCoding Challenge 2020
 ========
 ## Welcome to my LeetCode repository !!
-### I'll be adding solution to new problems in C++, Python for the next 31 days.
+### I'll be adding solution to new problems in C++ & Python for the next 31 days.
 
 **Note:** You need to login to LeetCode to see the full problem statement & submit the solution.
 
