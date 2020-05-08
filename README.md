@@ -7,7 +7,7 @@ May LeetCoding Challenge 2020
 
 | Day | Problem Link | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [C++](./Week 1/Problem 1/First_Bad_Version/cpp/First_Bad_Version.cpp), [Python](/Week 1/Problem 1/First_Bad_Version/python/First_Bad_Version.py) |Easy|
+|1|[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [C++](/Week 1/Problem 1/First_Bad_Version/cpp/First_Bad_Version.cpp), [Python](/Week 1/Problem 1/First_Bad_Version/python/First_Bad_Version.py) |Easy|
 |2|[Jewels and Stones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | [C++](./Week 1/Problem 2/Jewels_and_Stones/cpp/Jewels_and_Stones.cpp), [Python](./Week 1/Problem 2/Jewels_and_Stones/python/Jewels_and_Stones.py ) |Easy|
 |3|[Ransom Note](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) | [C++](/Week 1/Problem 3/Ransom_Note/cpp/Ransom_Note.cpp), [Python](./Week 1/Problem 3/Ransom_Note/python/Ransom_Note.py) |Easy|
 |4|[Number Complement](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) | [C++](./Week 1/Problem 4/Number_Complement/cpp/Number_Complement.cpp) |Easy|
