@@ -3,7 +3,7 @@ May LeetCoding Challenge 2020
 ## Welcome to my LeetCode repository !!
 ### I'll be adding solution to new problems in C++ & Python for the next 31 days.
 
-**Note:** You need to login to LeetCode to see the full problem statement & submit the solution.
+**Note:** You need to login to LeetCode to see the full problem statement in Explore Card & submit the solution.
 
 | Day | Problem Link | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -20,7 +20,7 @@ May LeetCoding Challenge 2020
 
 
 ---
-## Follow me on:-
+## Connect with me on:-
 **Linkedin:** [shubhanshu001](https://www.linkedin.com/in/shubhanshu001/) <br />
 **Github:** [shubhanshu1995](https://github.com/shubhanshu1995) <br />
 **Medium:** [@shubhanshu1995](https://medium.com/@shubhanshu1995) <br />
