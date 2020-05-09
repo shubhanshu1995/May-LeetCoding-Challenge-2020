@@ -10,16 +10,16 @@ May LeetCoding Challenge 2020
 
 ### Just click on the solution links & you'll be redirected to respective code in my repository.
 ---
-| Day | Problem Link | Solution | Difficulty |
+| Day | Problem Link | Solution | Difficulty | Tags |
 |---| ----- | -------- | ---------- |
-|1|[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [C++](./Week1/Day1/FirstBadVersion/cpp/FirstBadVersion.cpp), [Python](./Week1/Day1/FirstBadVersion/python/FirstBadVersion.py) |Easy|
-|2|[Jewels and Stones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | [C++](./Week1/Day2/JewelsAndStones/cpp/JewelsAndStones.cpp), [Python](./Week1/Day2/JewelsAndStones/python/JewelsAndStones.py ) |Easy|
-|3|[Ransom Note](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) | [C++](./Week1/Day3/RansomNote/cpp/RansomNote.cpp), [Python](./Week1/Day3/RansomNote/python/RansomNote.py) |Easy|
-|4|[Number Complement](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) | [C++](./Week1/Day4/NumberComplement/cpp/NumberComplement.cpp) |Easy|
-|5|[First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | [Python](./Week1/Day5/FirstUniqueCharInString/python/FirstUniqueCharInString.py) |Easy|
-|6|[Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | [Python Approach 1](./Week1/Day6/majorityElement/python/majorityElementApproach1.py/), [Python Approach 2](./Week1/Day6/majorityElement/python/majorityElementApproach2.py) |Easy|
-|7|[Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) | [C++ Approach 1](./Week1/Day7/cousinsInBinaryTree/cpp/cousinsInBinaryTreeApproach1.cpp), [C++ Approach 2](/Week1/Day7/cousinsInBinaryTree/cpp/cousinsInBinaryTreeApproach2.cpp), [Python](./Week1/Day7/cousinsInBinaryTree/python/cousinsInBinaryTreeDFS.py) |Easy|
-|8|[Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) | [C++ Approach 1](./Week2/Day8/CheckIfItIsAStraightLine/cpp/CheckIfItIsAStraightLineApproach1.cpp), [C++ Approach 2](/Week2/Day8/CheckIfItIsAStraightLine/cpp/CheckIfItIsAStraightLineApproach2.cpp), [Python](./Week2/Day8/CheckIfItIsAStraightLine/python/CheckIfItIsAStraightLine.py) |Easy|
+|1|[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [C++](./Week1/Day1/FirstBadVersion/cpp/FirstBadVersion.cpp), [Python](./Week1/Day1/FirstBadVersion/python/FirstBadVersion.py) |Easy|Binary Search| 
+|2|[Jewels and Stones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | [C++](./Week1/Day2/JewelsAndStones/cpp/JewelsAndStones.cpp), [Python](./Week1/Day2/JewelsAndStones/python/JewelsAndStones.py ) |Easy|String|
+|3|[Ransom Note](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) | [C++](./Week1/Day3/RansomNote/cpp/RansomNote.cpp), [Python](./Week1/Day3/RansomNote/python/RansomNote.py) |Easy|String|
+|4|[Number Complement](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) | [C++](./Week1/Day4/NumberComplement/cpp/NumberComplement.cpp) |Easy|Bit Manipulation|
+|5|[First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | [Python](./Week1/Day5/FirstUniqueCharInString/python/FirstUniqueCharInString.py) |Easy|HashTable, String|
+|6|[Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | [Python Approach 1](./Week1/Day6/majorityElement/python/majorityElementApproach1.py/), [Python Approach 2](./Week1/Day6/majorityElement/python/majorityElementApproach2.py) |Easy|HashTable, Boyer-Moore Voting Algorithm|
+|7|[Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) | [C++ Approach 1](./Week1/Day7/cousinsInBinaryTree/cpp/cousinsInBinaryTreeApproach1.cpp), [C++ Approach 2](/Week1/Day7/cousinsInBinaryTree/cpp/cousinsInBinaryTreeApproach2.cpp), [Python](./Week1/Day7/cousinsInBinaryTree/python/cousinsInBinaryTreeDFS.py) |Easy|Tree, Breadth-First Search, Depth-First Search|
+|8|[Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) | [C++ Approach 1](./Week2/Day8/CheckIfItIsAStraightLine/cpp/CheckIfItIsAStraightLineApproach1.cpp), [C++ Approach 2](/Week2/Day8/CheckIfItIsAStraightLine/cpp/CheckIfItIsAStraightLineApproach2.cpp), [Python](./Week2/Day8/CheckIfItIsAStraightLine/python/CheckIfItIsAStraightLine.py) |Easy|Array, Maths, Geometry|
 
 ---
 ## Connect with me on:-
