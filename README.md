@@ -11,7 +11,7 @@ May LeetCoding Challenge 2020
 ### Just click on the solution links & you'll be redirected to respective code in my repository.
 ---
 | Day | Problem Link | Solution | Difficulty | Tags |
-|---| ----- | -------- | ---------- |
+|---| ----- | -------- | ---------- | -------------- | 
 |1|[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [C++](./Week1/Day1/FirstBadVersion/cpp/FirstBadVersion.cpp), [Python](./Week1/Day1/FirstBadVersion/python/FirstBadVersion.py) |Easy|Binary Search| 
 |2|[Jewels and Stones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | [C++](./Week1/Day2/JewelsAndStones/cpp/JewelsAndStones.cpp), [Python](./Week1/Day2/JewelsAndStones/python/JewelsAndStones.py ) |Easy|String|
 |3|[Ransom Note](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) | [C++](./Week1/Day3/RansomNote/cpp/RansomNote.cpp), [Python](./Week1/Day3/RansomNote/python/RansomNote.py) |Easy|String|
