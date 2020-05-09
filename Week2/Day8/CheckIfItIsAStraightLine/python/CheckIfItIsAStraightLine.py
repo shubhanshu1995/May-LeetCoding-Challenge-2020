@@ -5,6 +5,9 @@
 
 ###############################  Using Slope Formula & Cross Product to check collinearity ##########################
 
+## Time Complexity: O(n)
+## Space Complexity: O(1)
+
 
 class Solution:
     def checkStraightLine(self, coordinates: List[List[int]]) -> bool:
