@@ -19,6 +19,7 @@ May LeetCoding Challenge 2020
 |5|[First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | [Python](./Week1/Day5/FirstUniqueCharInString/python/FirstUniqueCharInString.py) |Easy|
 |6|[Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | [Python Approach 1](./Week1/Day6/majorityElement/python/majorityElementApproach1.py/), [Python Approach 2](./Week1/Day6/majorityElement/python/majorityElementApproach2.py) |Easy|
 |7|[Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) | [C++ Approach 1](./Week1/Day7/cousinsInBinaryTree/cpp/cousinsInBinaryTreeApproach1.cpp), [C++ Approach 2](/Week1/Day7/cousinsInBinaryTree/cpp/cousinsInBinaryTreeApproach2.cpp), [Python](./Week1/Day7/cousinsInBinaryTree/python/cousinsInBinaryTreeDFS.py) |Easy|
+|8|[Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) | [C++ Approach 1](./Week2/Day8/CheckIfItIsAStraightLine/cpp/CheckIfItIsAStraightLineApproach1.cpp), [C++ Approach 2](/Week2/Day8/CheckIfItIsAStraightLine/cpp/CheckIfItIsAStraightLineApproach2.cpp), [Python](./Week2/Day8/CheckIfItIsAStraightLine/python/CheckIfItIsAStraightLine.py) |Easy|
 
 ---
 ## Connect with me on:-
