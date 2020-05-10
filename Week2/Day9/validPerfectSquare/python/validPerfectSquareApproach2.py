@@ -3,7 +3,7 @@
 ## Date   : 10-05-2020
 
 
-############################### Approach 2  Approach 3 using Binary Search #######################################
+############################### Approach 2 using Binary Search #######################################
 
 ## Note: Do not use any built-in library function such as sqrt.
 
