@@ -13,10 +13,6 @@
 ## Changing the color guarantees we will not go to the same cell again. 
 
 
-
-
-
-
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, newColor: int) -> List[List[int]]:
         
