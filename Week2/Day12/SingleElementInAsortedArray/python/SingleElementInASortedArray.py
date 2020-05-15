@@ -6,7 +6,6 @@
 ########################### Using Binary Search #######################################
 
 
-
 ## For odd position compare with the previous number.
 ## For even position compare with the next number. 
 ## The unique number must be at even position.
@@ -14,12 +13,6 @@
 
 ## Time Complexity: O(logn)
 ## Space Complexiy: O(1)
-
-
-
-
-
-
 
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:
